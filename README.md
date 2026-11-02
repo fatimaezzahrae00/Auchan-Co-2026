@@ -4,4 +4,9 @@ L’objectif de ce projet Création d'un site web moderne et réactif pour le Ce
 
 documentation 
 1-C'est quoi Fetch()
-C une concept clé en programation modern en JavaScript qui remplace 
+C une fonction en JavaScript integrée qui permet d'envoyer des requêtes HTTP (GET, POST, etc.) et de récupérer des données depuis une URL
+
+
+ 1.2 -modules ES6 (import / export)
+export : Permet de rendre une fonction ou variable disponible pour d’autres fichiers.
+import : Permet de récupérer ce qui a été exporté.

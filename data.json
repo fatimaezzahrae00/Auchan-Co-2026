@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "nom": "pommes",
+    "categorie": "fruit",
+    "prix": 20,
+    "image": "img/pomme.png"
+
+    
+  },
+  {
+    "id": 2,
+    "nom": "Banane",
+    "categorie": "fruit",
+    "prix": 10,
+    "image":"img/banane.png"
+  },
+  {
+    "id": 3,
+    "nom": "Orange",
+    "categorie": "fruit",
+    "prix": 15,
+    "image":"img/orange.png"
+  },
+  {
+    "id": 4,
+    "nom": "Fraise",
+    "categorie": "fruit",
+    "prix": 25,
+    "image":"img/fraise.png"
+  },
+  {
+    "id": 5,
+    "nom": "Raisin",
+    "categorie": "fruit",
+    "prix": 30,
+    "image":"img/grapes.png"
+
+  },
+  {
+    "id": 6,
+    "nom": "Poire",
+    "categorie": "fruit",
+    "prix": 18,
+    "image":"img/poire.png"
+  },
+  {
+    "id": 7,
+    "nom": "Mangue",
+    "categorie": "fruit",
+    "prix": 35,
+    "image":"img/mangue.png"
+  },
+  {
+    "id": 8,
+    "nom": "Ananas",
+    "categorie": "fruit",
+    "prix": 40,
+    "image":"img/ananas.png"
+  },
+  {
+    "id": 9,
+    "nom": "Pastèque",
+    "categorie": "fruit",
+    "prix": 12,
+    "image":"img/melon.png"
+  },
+  {
+    "id": 10,
+    "nom": "Kiwi",
+    "categorie": "fruit",
+    "prix": 22,
+    "image":"img/kiwi.png"
+
+  }
+]
