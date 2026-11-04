@@ -67,10 +67,90 @@
   },
   {
     "id": 10,
-    "nom": "Kiwi",
-    "categorie": "fruit",
+    "nom": "White Flower",
+    "categorie": "Fleur",
     "prix": 22,
-    "image":"img/kiwi.png"
+    "image":"img/10.jpg"
+
+  },
+  
+  {
+    "id": 11,
+    "nom": "White Fleur",
+    "categorie": "Fleur",
+    "prix": 20,
+    "image": "img/whiteflower.png"
+
+    
+  },
+  {
+    "id": 12,
+    "nom": "Banane",
+    "categorie": "Fleur",
+    "prix": 10,
+    "image":"img/9.jpg"
+  },
+  {
+    "id": 13,
+    "nom": "Orange",
+    "categorie": "Fleur",
+    "prix": 15,
+    "image":"img/9.jpg"
+  },
+  {
+    "id": 14,
+    "nom": "Fraise",
+    "categorie": "Fleur",
+    "prix": 25,
+    "image":"img/issam.jpg"
+  },
+  {
+    "id": 15,
+    "nom": "Raisin",
+    "categorie": "Fleur",
+    "prix": 30,
+    "image":"img/6.jpg"
+
+  },
+  {
+    "id": 16,
+    "nom": "Poire",
+   "categorie": "Fleur",
+    "prix": 18,
+    "image":"img/5.jpg"
+  },
+  {
+    "id": 17,
+    "nom": "Mangue",
+    "categorie": "Fleur",
+    "prix": 35,
+    "image":"img/4.jpg"
+  },
+  {
+    "id": 18,
+    "nom": "Ananas",
+    "categorie": "Fleur",
+    "prix": 40,
+    "image":"img/3.jpg"
+  },
+  {
+    "id": 19,
+    "nom": "Pastèque",
+   "categorie": "Fleur",
+    "prix": 12,
+    "image":"img/1.jpg"
+  },
+  {
+    "id": 20,
+    "nom": "Kiwi",
+    "categorie": "Fleur",
+    "prix": 22,
+    "image":"img/2.jpg"
 
   }
 ]
+
+
+
+
+

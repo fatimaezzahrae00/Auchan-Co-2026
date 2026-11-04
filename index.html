@@ -24,10 +24,10 @@
                         <a href="#accueil" class="text-red-600 border-b-2 border-red-600 pb-1">Accueil</a>
                     </li>
                     <li>
-                        <a href="#catalogue" class="hover:text-red-600">Catalogue</a>
+                        <a href="#catalogue" class="hover:text-red-600">Nos produits</a>
                     </li>
                     <li>
-                        <a href="#produit" class="hover:text-red-600 ">Produit</a>
+                        <a href="#produit" class="hover:text-red-600 ">oooProduit</a>
                     </li>
                 </ul>
             </nav>
@@ -85,10 +85,27 @@
         </div>
             
         </article>
+        
     </section>
-    <div class="fmb-6 text-3xl font-bold text-gray-900">
-     <h2 class="mb-6 text-3xl font-bold text-gray-900">Nos produits</h2>
-     </div>
+    
+    <div class="flex flex-row justify-between items-center gap-4">
+
+    <h2 class="mb-6 text-3xl font-bold text-gray-900 ml-8 mt-10">Nos produits</h2>
+
+    <input id="search" class="w-full h-[40px] border-gray-200 bg-white rounded-lg shadow p-2" type="search" placeholder="Rechercher un produit…">
+
+    <div class="flex gap-5">
+        <div class="flex gap-2">
+            <button id="btn-grille" class="bg-red-600 text-white rounded-xl px-4 py-2 cursor-pointer">Grille</button>
+            <button id="btn-liste" class="bg-red-300 hover:bg-red-600 rounded-xl px-4 py-2 cursor-pointer">Liste</button>
+        </div>
+
+        <button data-category="all"   class="filter-btn bg-red-300 cursor-pointer hover:bg-red-600 rounded-xl px-4 py-2">Tous</button>
+        <button data-category="fruit" class="filter-btn bg-red-300 cursor-pointer hover:bg-red-600 rounded-xl px-4 py-2">Fruit</button>
+        <button data-category="fleur" class="filter-btn bg-red-300 cursor-pointer hover:bg-red-600 rounded-xl px-4 py-2">Fleur</button>
+    </div>
+
+</div>
     <section id="catalogue" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 py-8">
        
 
@@ -146,6 +163,7 @@
 
         </div>
     </section>
+    <!-- <p id="empty" class="hidden text-center text-gray-500">Aucun produit trouvé.</p> -->
 </body>
 <main>
     <div class="h-screen bg-white">
