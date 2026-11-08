@@ -107,11 +107,17 @@
     <section class="flex flex-row gap-4">
         <div id="catalogue" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 py-8"></div>
         <div class="w-[30vw] bg-white rounded-md mr-2 shadow p-4 ">
-                <div class="flex flex-row items-center">
-                <img src="img/panier.jpg" alt="Panier" class=" h-8 w-8 ">
-                <strong>Panier : </strong>
-                </div>
-            
+                <div id="panier" class="w-[30vw] h-fit bg-white rounded-md mr-2 shadow p-4">
+    <div class="flex flex-row items-center gap-2 mb-3">
+        <img src="img/panier.jpg" alt="Panier" class="h-8 w-8">
+        <strong>Panier (<span id="panier-count">0</span>)</strong>
+    </div>
+
+    <p id="panier-vide" class="text-gray-500 text-sm">Glissez un produit ici.</p>
+    <ul id="panier-liste" class="flex flex-col gap-2"></ul>
+
+    <p class="mt-3 font-bold">Total : <span id="panier-total">0</span> DH</p>
+</div>
             
         </div>
     </section>
