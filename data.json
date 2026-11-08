@@ -83,30 +83,24 @@
 
     
   },
-  {
-    "id": 12,
-    "nom": "Banane",
-    "categorie": "Fleur",
-    "prix": 10,
-    "image":"img/9.jpg"
-  },
+  
   {
     "id": 13,
-    "nom": "Orange",
+    "nom": "Rose fleur",
     "categorie": "Fleur",
     "prix": 15,
     "image":"img/9.jpg"
   },
   {
     "id": 14,
-    "nom": "Fraise",
+    "nom": "Sunflower fleur",
     "categorie": "Fleur",
     "prix": 25,
     "image":"img/issam.jpg"
   },
   {
     "id": 15,
-    "nom": "Raisin",
+    "nom": "Blue fleur",
     "categorie": "Fleur",
     "prix": 30,
     "image":"img/6.jpg"
@@ -114,21 +108,21 @@
   },
   {
     "id": 16,
-    "nom": "Poire",
+    "nom": "tulip fleur",
    "categorie": "Fleur",
     "prix": 18,
     "image":"img/5.jpg"
   },
   {
     "id": 17,
-    "nom": "Mangue",
+    "nom": "Rouge fleur",
     "categorie": "Fleur",
     "prix": 35,
     "image":"img/4.jpg"
   },
   {
     "id": 18,
-    "nom": "Ananas",
+    "nom": "Note fleur",
     "categorie": "Fleur",
     "prix": 40,
     "image":"img/3.jpg"
@@ -142,10 +136,49 @@
   },
   {
     "id": 20,
-    "nom": "Kiwi",
+    "nom": "Rouge fleur",
     "categorie": "Fleur",
     "prix": 22,
     "image":"img/2.jpg"
+
+  },
+  
+  {
+    "id": 21,
+    "nom": "rabbon book",
+    "categorie": "books",
+    "prix": 20,
+    "image": "img/book5.jpg"
+
+    
+  },
+  {
+    "id": 22,
+    "nom": "Blue book",
+    "categorie": "books",
+    "prix": 10,
+    "image":"img/book4.jpg"
+  },
+  {
+    "id": 23,
+    "nom": "Rose book",
+    "categorie": "books",
+    "prix": 15,
+    "image":"img/book3.jpg"
+  },
+  {
+    "id": 24,
+    "nom": "Marron",
+    "categorie": "books",
+    "prix": 25,
+    "image":"img/book2.jpg"
+  },
+  {
+    "id": 25,
+    "nom": "grena book",
+    "categorie": "books",
+    "prix": 30,
+    "image":"img/book1.jpg"
 
   }
   
